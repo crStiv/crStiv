@@ -13,7 +13,7 @@
 
 ## 🧱 About Me
 
-👋 Yo! I'm **<YOUR_NICKNAME>** — a **Crypto / Blockchain Developer**,  
+👋 Yo! I'm **crStiv** — a **Crypto / Blockchain Developer**,  
 mining blocks not only in **Minecraft**, but also in **blockchains**.
 
 - 🔗 Smart Contracts & Web3
