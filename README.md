@@ -1,7 +1,7 @@
 # ⛏️ crStiv
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/master/steve.png" width="120" />
+  <img src="./assets/steve.gif" width="140" />
 </p>
 
 <p align="center">
@@ -11,30 +11,14 @@
 
 ---
 
-## 🧱 About
+## 🧱 About Me
 
-Crypto developer with a **Minecraft mindset**:
-build systems, automate logic, scale infrastructure.
+👋 Yo! I'm **<YOUR_NICKNAME>** — a **Crypto / Blockchain Developer**,  
+mining blocks not only in **Minecraft**, but also in **blockchains**.
 
----
+- 🔗 Smart Contracts & Web3
+- ⛏️ Mining ideas → building protocols
+- 🌍 Decentralization believer
+- 🎮 Minecraft-inspired mindset: *grind, automate, scale*
 
-## 🟩 Skills
-
-Solidity ██████████ 95%
-Web3 █████████░ 90%
-DeFi ████████░░ 80%
-Frontend ███████░░░ 70%
-Infrastructure ██████░░░░ 60%
----
-
-## 🏆 Achievements
-
-- ⛏️ First Smart Contract
-- 💎 Production Contracts
-- ⚙️ DeFi Systems Built
-
----
-
-<p align="center">
-  <i>Happy mining.</i>
-</p>
+> _"From breaking blocks to breaking centralized systems."_
