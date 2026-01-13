@@ -1,7 +1,7 @@
 # ⛏️ crStiv
 
 <p align="center">
-  <img src="./assets/stevepic" width="140" />
+  <img src="./assets/stevepic.png" width="140" />
 </p>
 
 <p align="center">
