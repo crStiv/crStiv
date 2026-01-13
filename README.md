@@ -1,7 +1,7 @@
 # ⛏️ crStiv
 
 <p align="center">
-  <img src="./assets/ChatGPT Image 13 янв. 2026 г., 16_08_26.png" width="300" />
+  <img src="./assets/ChatGPT Image 13 янв. 2026 г., 16_08_26.png" width="600" />
 </p>
 
 <p align="center">
