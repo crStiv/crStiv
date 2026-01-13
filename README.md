@@ -1,16 +1,40 @@
-## Hi there 👋
+# ⛏️ crStiv
 
-<!--
-**crStiv/crStiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/master/steve.png" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Crypto / Blockchain Developer</b><br/>
+  <i>Mining blocks & blockchains</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧱 About
+
+Crypto developer with a **Minecraft mindset**:
+build systems, automate logic, scale infrastructure.
+
+---
+
+## 🟩 Skills
+
+Solidity ██████████ 95%
+Web3 █████████░ 90%
+DeFi ████████░░ 80%
+Frontend ███████░░░ 70%
+Infrastructure ██████░░░░ 60%
+---
+
+## 🏆 Achievements
+
+- ⛏️ First Smart Contract
+- 💎 Production Contracts
+- ⚙️ DeFi Systems Built
+
+---
+
+<p align="center">
+  <i>Happy mining.</i>
+</p>
